@@ -7,7 +7,8 @@ I wanted to take a raw e-commerce dataset and turn it into something that could 
 
 ## Dashboard Preview
 
-![Dashboard](Screenshot 2026-06-06 211250.png)
+![Dashboard](dashboardrecording.mp4)
+![Dashboard](dashboard.png)
 
 ## About the Dataset
 The original dataset contained 2,400 records and 12 columns. While working on this project I added calculated columns such as Week Number, Days to Deliver and Gender Value.
