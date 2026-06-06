@@ -10,6 +10,7 @@ I wanted to take a raw e-commerce dataset and turn it into something that could 
 
 ## Dashboard Walkthrough Video
 Click below to view the dashboard recording.
+
 [▶ Dashboard Recording](dashboardrecording.mp4)
 
 ## About the Dataset
