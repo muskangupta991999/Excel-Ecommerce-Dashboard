@@ -6,9 +6,11 @@ I created this dashboard while learning data analytics and Excel dashboarding.
 I wanted to take a raw e-commerce dataset and turn it into something that could answer business questions at a glance. Instead of looking through rows of data the dashboard makes it easier to understand sales trends, customer behaviour and product performance.
 
 ## Dashboard Preview
-
-![Dashboard](dashboardrecording.mp4)
 ![Dashboard](dashboard.png)
+
+## Dashboard Walkthrough Video
+Click below to view the dashboard recording.
+[▶ Dashboard Recording](dashboardrecording.mp4)
 
 ## About the Dataset
 The original dataset contained 2,400 records and 12 columns. While working on this project I added calculated columns such as Week Number, Days to Deliver and Gender Value.
